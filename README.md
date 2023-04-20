@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Federico Lupoli</h1>
-<h3 align="center">A 16 years old italian developer.</h3>
+<h3 align="center">Italian Java and Python developer.</h3>
 
 - 🔭 I’m currently working on random things
 
-- 📫 How to reach me: **lupolifederico@outlook.it**
+- 📫 How to reach me: **federicolupoli2@gmail.com**
 <br/>
 
 ## Tools:
