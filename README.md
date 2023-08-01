@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico Lupoli</h1>
-<h3 align="center">Italian Java and Python developer.</h3>
+<h3 align="center">Italian Web & Java developer.</h3>
 
-- 🔭 I’m currently working on random things
+- 🔭 Currently Working on Reps Imola
 
 - 📫 How to reach me: **federicolupoli2@gmail.com**
 <br/>
