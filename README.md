@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico Lupoli</h1>
-<h3 align="center">Italian Web & Java developer.</h3>
+<h3 align="center">Italian Software developer.</h3>
 
 - 🔭 Currently Working on SLYTHE
 
