@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico Lupoli</h1>
 <h3 align="center">Italian Software developer.</h3>
 
-- 🔭 Currently Working on SLYTHE
+- 🔭 Currently Working on ...
 
 - 📫 How to reach me: **federicolupoli2@gmail.com**
 <br/>
