@@ -7,7 +7,7 @@
 
 - 💻 I’m currently developing **KnowBy**
 
--❕[My Website](https://federicolupoli.it/)
+- ❕[My Website](https://federicolupoli.it/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
