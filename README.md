@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federicolupoli&label=Profile%20views&color=0e75b6&style=flat" alt="federicolupoli" /> </p>
 
-- 🔭 I’m currently working on [4DevLabs](https://github.com/4DevLabs/)
+- 🔭 I’m currently working on [KnowBy](https://home.knowby.it/)
 
-- 💻 I’m currently developing **KnowBy**
+- 💻 I’m currently developing **KnowByAPI**
 
-- ❕[My Website](https://federicolupoli.it/)
+- ❕[My Website - MAINTENANCE](https://federicolupoli.it/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
