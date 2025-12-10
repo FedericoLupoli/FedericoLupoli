@@ -6,8 +6,8 @@ Sono uno **Studente di Informatica** con un forte interesse nel **QoL** attraver
 
 ## 🚀 La mia Passione e le Mie Attività
 
-* **Attualmente:** Mi sto concentrando sull'apprendimento approfondito di **JavaScript** per lo sviluppo backend.
-* **Progetti in Corso:** Lavoro su piccoli progetti personali e affronto sfide su **CodeWars** per consolidare le mie competenze in JS e TS.
+* **Attualmente:** Mi sto concentrando sull'apprendimento approfondito di **Go** per lo sviluppo backend.
+* **Progetti in Corso:** Lavoro su piccoli progetti personali e affronto sfide su **CodeWars** per consolidare le mie competenze in Go.
 * **Obiettivi Futuri:** Puntare a progetti più ampi nell'ambito del **Backend development** e continuare l'espansione del mio ambiente **Self-Hosted Proxmox**.
 * **Alla Ricerca di:** Nuove **opportunità professionali (stage, collaborazioni)** in cui posso applicare le mie conoscenze, crescere professionalmente e contribuire a soluzioni innovative.
 
@@ -20,7 +20,7 @@ Ecco le tecnologie che studio e utilizzo per dare vita alle mie idee:
 ### Linguaggi di Programmazione
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Golang-3178C6?style=for-the-badge&logo=go&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c-plusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
