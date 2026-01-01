@@ -6,8 +6,8 @@ Sono uno **Studente di Informatica** con un forte interesse nel **QoL** attraver
 
 ## 🚀 La mia Passione e le Mie Attività
 
-* **Attualmente:** Mi sto concentrando sull'apprendimento approfondito di **Go** per lo sviluppo backend.
-* **Progetti in Corso:** Lavoro su piccoli progetti personali e affronto sfide su **CodeWars** per consolidare le mie competenze in Go.
+* **Attualmente:** Mi sto concentrando sull'apprendimento approfondito di **Go** e **JS** per lo sviluppo backend.
+* **Progetti in Corso:** Lavoro su piccoli progetti personali e leggo documentazioni per consolidare le mie conoscenze.
 * **Obiettivi Futuri:** Puntare a progetti più ampi nell'ambito del **Backend development** e continuare l'espansione del mio ambiente **Self-Hosted Proxmox**.
 * **Alla Ricerca di:** Nuove **opportunità professionali (stage, collaborazioni)** in cui posso applicare le mie conoscenze, crescere professionalmente e contribuire a soluzioni innovative.
 
