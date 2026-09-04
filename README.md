@@ -1,12 +1,12 @@
 # Ciao, sono Federico Lupoli 👋
 
-Sono uno **Studente di Informatica** con un forte interesse nel **QoL** attraverso lo sviluppo di software e nell'esplorazione dell'**Homelabbing**. Mi appassiona trasformare le sfide quotidiane in soluzioni automatizzate e efficienti.
+Sono uno **Studente di Inegneria Informatica** con un forte interesse nell'**Homelabbing** e nel **self-hosting**. Mi appassiona trasformare le sfide quotidiane in soluzioni automatizzate e efficienti.
 
 ---
 
 ## 🚀 La mia Passione e le Mie Attività
 
-* **Attualmente:** Mi sto concentrando sull'apprendimento approfondito di **Go** e **JS** per lo sviluppo backend.
+* **Attualmente:** Mi sto concentrando sullo studio accademico.
 * **Progetti in Corso:** Lavoro su piccoli progetti personali e leggo documentazioni per consolidare le mie conoscenze.
 * **Obiettivi Futuri:** Puntare a progetti più ampi nell'ambito del **Backend development** e continuare l'espansione del mio ambiente **Self-Hosted Proxmox**.
 * **Alla Ricerca di:** Nuove **opportunità professionali (stage, collaborazioni)** in cui posso applicare le mie conoscenze, crescere professionalmente e contribuire a soluzioni innovative.
@@ -20,7 +20,7 @@ Ecco le tecnologie che studio e utilizzo per dare vita alle mie idee:
 ### Linguaggi di Programmazione
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Golang-3178C6?style=for-the-badge&logo=go&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Golang-3178C6?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c-plusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
@@ -31,6 +31,7 @@ Ecco le tecnologie che studio e utilizzo per dare vita alle mie idee:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/OpenCode-181717?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
 </p>
 
 ### Homelab e Infrastruttura
